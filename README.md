@@ -37,11 +37,14 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-
+<div>
+    <a href="https://www.loom.com/share/ff38cc6530d84b1f95fb28aaf990d4b8">
   
     </a>
+    <a href="https://www.loom.com/share/ff38cc6530d84b1f95fb28aaf990d4b8">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ff38cc6530d84b1f95fb28aaf990d4b8-with-play.gif">
     </a>
+  </div>
 
 
 
