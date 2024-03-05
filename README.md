@@ -51,7 +51,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 
 GIF created with **your chosen GIF tool**
-https://imgur.com/a/sWyX8mn.git
+![Alt Text]
+(https://imgur.com/a/sWyX8mn.gif)
 
 
 ## Notes
